@@ -136,7 +136,7 @@ link = "https://github.com/marcojakob/tutorial-javafx-8/releases/download/v1.1/a
 7. 添加一个 *Label* 到 *SplitePane*的右边部分，并设置它的显示文字为 "Person Details" (提示: 你可以通过搜索来找到 *Label* 这个控件)。 使用anchors来调节这个控件的布局位置。   
 ![Person Details Label](person-details-label.png)
 
-8. 再添加一个 *GridPane* *SplitePane*的右边部分, 使用anchors来调节这个控件的布局位置。   
+8. 再添加一个 *GridPane* 到 *SplitePane*的右边部分, 使用anchors来调节这个控件的布局位置。   
 ![GridPane Layout](grid-pane-layout.png)
 
 9. 按照下面的图添加多个 *Lables*到表格中去。
